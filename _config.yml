@@ -17,7 +17,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: 빅마킴's blog
-  tagline: 나의 일기장
+  tagline: 코린이 탈출 블로그
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
