@@ -20,7 +20,7 @@ texture:
   tagline: 코린이 탈출 블로그
   date_format: "%b %-d, %Y"
   style: black
-  showNav: false
+  showNav: true
   showPicker: true
   
   navigation:
