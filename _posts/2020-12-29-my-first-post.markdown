@@ -3,7 +3,7 @@ layout: post
 title:  "첫 포스팅"
 description: 첫 포스팅 연습
 date:   2020-12-29 08:11:36 +0900
-categories: C++
+categories: Algorithm
 ---
 아래는 N과 M코드이다.
 
