@@ -25,11 +25,9 @@ texture:
   
   navigation:
     - title: Home
-      url: "/layouts/home.html"
+      url: "/"
     - title: Category
       url: "/category"
-    - title: Posts
-      url: "/posts"
       
 
   # generate social links in footer
