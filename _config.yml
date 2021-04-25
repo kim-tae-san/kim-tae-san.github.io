@@ -21,13 +21,11 @@ texture:
   date_format: "%b %-d, %Y"
   style: black
   showNav: true
-  showPicker: true
+  showPicker: false
   
   navigation:
     - title: Home
       url: "/"
-    - title: Category
-      url: "/categories"
       
 
   # generate social links in footer
