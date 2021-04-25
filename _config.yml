@@ -27,7 +27,7 @@ texture:
     - title: Home
       url: "/"
     - title: Category
-      url: "/category"
+      url: "/categories"
       
 
   # generate social links in footer
